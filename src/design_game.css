@@ -1,0 +1,31 @@
+/* design_game.css */
+
+/* Main container styles */
+.container {
+    margin: auto;
+    padding: 20px;
+    max-width: 800px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Game ID container styles */
+  .game-id {
+    margin-top: 20px;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Chessboard container styles */
+  .chessboard-container {
+    margin-top: 20px;
+  }
+  
+  /* Footer styles */
+  .footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 14px;
+    color: #666;
+  }
+  
