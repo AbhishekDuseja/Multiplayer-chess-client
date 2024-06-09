@@ -158,7 +158,8 @@ import { io } from 'socket.io-client';
 import { Chess } from 'chess.js';
 import './design.css';
 
-const socket = io('http://localhost:8000');
+// const socket = io('http://localhost:8000');
+const socket = io('https://multiplayer-chess-server.onrender.com');
 
 const App = () => {
   const [game, setGame] = useState(new Chess());
@@ -302,7 +303,7 @@ const App = () => {
             </div>
             <div className="right-container">
               <img
-                src="/CBoard.jpeg"
+                src="/Board.jpeg"
                 alt="Chess Illustration"
               />
             </div>
