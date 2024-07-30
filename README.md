@@ -1,3 +1,18 @@
+
+
+
+Access the game through:
+Render : https://chess-compiled.onrender.com 
+
+
+
+
+
+
+
+
+
+
 # Multiplayer-chess-client
 # Getting Started with Create React App
 
