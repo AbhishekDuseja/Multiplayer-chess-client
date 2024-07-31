@@ -2,7 +2,7 @@
 
 
 Access the game through:
-Render : https://chess-compiled.onrender.com 
+Render : https://chess-compiled.onrender.com  
 
 
 
