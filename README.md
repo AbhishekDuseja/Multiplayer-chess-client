@@ -4,6 +4,7 @@
 Access the game through:
 Render : https://chess-compiled.onrender.com  
 
+AWS: http://3.86.58.192/ 
 
 
 
